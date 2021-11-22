@@ -63,6 +63,10 @@
 .btn-sm {
   padding: 6px 10px;
   vertical-align: middle;
+  background-color: rgba(0,0,0,0) ;
+  color: #ffffff ;
+  border : 2px Solid #ffffff ;
+  border-radius: 8px;
 }
 
 .section {
@@ -83,4 +87,25 @@
 }
 
 
+
 /* Enter your CSS here :) */
+.firstsection {
+  height: 400px;
+  background-color: #f0d9ff;
+}
+
+.secondsection {
+  height: 400px;
+  background-color: #c68b59;
+}
+
+.thirdsection {
+  height: 400px;
+  background-color: #d5eebb;
+}
+
+#search {
+font-size: 17px;
+border: solid 2px #a0a0a0;
+border-radius: 9px;
+}
